@@ -1,0 +1,6 @@
+.box{
+    background-image: url(../assets/main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
