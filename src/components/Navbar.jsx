@@ -10,11 +10,11 @@ function Navbar(){
                 </div>
                 <div className='nav2'>
                     <li className=" flex gap-7">
-                        <link href="/">Home</link>
-                        <link href="/quote">Quote</link>
-                        <link href="">Restaurant</link>
-                        <link href="">Foods</link>
-                        <link href="">Contact</link>
+                        <link to ="/">Home</link>
+                        <link to ="/quote">Quote</link>
+                        <link to ="">Restaurant</link>
+                        <link to ="">Foods</link>
+                        <link to ="">Contact</link>
                     </li>
                 </div>
                 <div className="px-4 py-2 rounded-md bg-[#2563eb]">
